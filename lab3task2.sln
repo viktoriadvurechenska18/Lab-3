@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3task2", "lab3task2\lab3task2.csproj", "{94F3E3B3-9462-443F-ACF7-5F5F91A2B452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3task3", "lab3task3\lab3task3.csproj", "{F6EAB6BD-5215-4286-ACBE-B2CCC45696A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3task1", "lab3task1\lab3task1.csproj", "{0B618167-5943-438A-A3B8-E61C5639A096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F3E3B3-9462-443F-ACF7-5F5F91A2B452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F3E3B3-9462-443F-ACF7-5F5F91A2B452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F3E3B3-9462-443F-ACF7-5F5F91A2B452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F3E3B3-9462-443F-ACF7-5F5F91A2B452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EAB6BD-5215-4286-ACBE-B2CCC45696A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EAB6BD-5215-4286-ACBE-B2CCC45696A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EAB6BD-5215-4286-ACBE-B2CCC45696A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EAB6BD-5215-4286-ACBE-B2CCC45696A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B618167-5943-438A-A3B8-E61C5639A096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B618167-5943-438A-A3B8-E61C5639A096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B618167-5943-438A-A3B8-E61C5639A096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B618167-5943-438A-A3B8-E61C5639A096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FA1B733-6F87-40AD-AC1F-F15A1773C9B7}
+	EndGlobalSection
+EndGlobal
